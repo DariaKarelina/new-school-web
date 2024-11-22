@@ -1,8 +1,0 @@
-.news2{
-    grid-area: n2;
-    margin: 0 auto;
-
-    padding: 5%;
-    div { display: inline; }
-    background-color: rgb(63, 165, 233);
-}
