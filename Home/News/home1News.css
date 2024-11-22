@@ -1,0 +1,10 @@
+.news{
+  grid-area: n;
+
+  display: grid;
+  div { display: inline; }
+  grid-template-areas: 
+  "n1" "n2" "n3";
+  grid-template-columns: 2fr 2fr 2fr;
+
+}
